@@ -9,7 +9,7 @@ int main() {
     int b = 1;
     double area, perimeter;
     int radius, length, width;
-    cout << "Выход - 0" << endl;
+    cout << "Выход - 0,эта програма вычисляет площадь и периметр фигур." << endl;
     while (true) {
         cout << "Выберите фигуру: 1 - Круг,2 - Прямоугольник" << endl;
         cin >> a;
